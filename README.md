@@ -38,6 +38,6 @@ cd Hand_Landmark_Detection_Using_Python
 ## Install Required Packages
 Make sure Python is installed (Python 3.7 or higher), then run:
 
-pip install opencv-python pillow cvzone
+```pip install opencv-python pillow cvzone```
 
 
